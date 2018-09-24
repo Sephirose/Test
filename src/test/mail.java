@@ -6,6 +6,7 @@ public class mail {
 		String update = "update from github";
 		System.out.println(update);
 		System.out.println(111);
+		//synchronized
 	}
 
 }
